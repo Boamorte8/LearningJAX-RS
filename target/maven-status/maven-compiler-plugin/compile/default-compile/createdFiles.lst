@@ -1,0 +1,3 @@
+com/boamorte/data/model/Student.class
+com/boamorte/rest/jersey/client/RestClient.class
+com/boamorte/rest/jersey/server/RestServer.class
